@@ -1,0 +1,2 @@
+D:\Projects\Windows.Storage.Error\TestSettings\PkgSettings\PkgSettings.wapproj;x86
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\TestSettings.csproj;x86

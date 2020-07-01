@@ -1,0 +1,25 @@
+D:\Projects\Windows.Storage.Error\TestSettings\PkgSettings\Images\SplashScreen.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\PkgSettings\Images\LockScreenLogo.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\PkgSettings\Images\Square150x150Logo.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\PkgSettings\Images\Square44x44Logo.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\PkgSettings\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Projects\Windows.Storage.Error\TestSettings\PkgSettings\Images\StoreLogo.png
+D:\Projects\Windows.Storage.Error\TestSettings\PkgSettings\Images\Wide310x150Logo.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\PkgSettings\bin\x86\Debug\resources.pri
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\bin\x86\Debug\TestSettings.pdb
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\bin\x86\Debug\TestSettings.exe
+C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll
+C:\Program Files (x86)\Microsoft Platform SDK\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\Properties\Default.rd.xml
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\Assets\LockScreenLogo.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\Assets\SplashScreen.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\Assets\Square150x150Logo.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\Assets\Square44x44Logo.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\Assets\StoreLogo.png
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\Assets\Wide310x150Logo.scale-200.png
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\bin\x86\Debug\TestSettings.xr.xml
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\bin\x86\Debug\App.xbf
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\bin\x86\Debug\MainPage.xbf
+C:\Program Files (x86)\Microsoft Platform SDK\UnionMetadata\10.0.18362.0\Windows.winmd
+D:\Projects\Windows.Storage.Error\TestSettings\TestSettings\bin\x86\Debug\Core\TestSettings.exe
